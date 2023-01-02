@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pedgeot1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coading 
+- 🌱 I’m currently learning java,css,java script
+- 💞️ I’m looking to collaborate on ... gaming 
 - 📫 How to reach me ...just mail me 
 pedgeot11@gmail.com
 I wanna learn this hacks and also I 

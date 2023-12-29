@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @pedgeot1
-- 👀 I’m interested in coading 
-- 🌱 I’m currently learning java,css,java script
-- 💞️ I’m looking to collaborate on ... gaming 
-- 📫 How to reach me ...just mail me 
+- 👋 Hi, I’m @Ayush goyal
+- 👀 I’m keeping a huge interest in doing codes 
+- 🌱 I’m currently learning Java, CSS, and javascript
+- 💞️ I’m looking to collaborate on ... different scheme related to tech  
+- 📫 How to reach me ... mail me 
 pedgeot11@gmail.com
-I wanna learn this hacks and also I 
-Can help you in exchange
+I want to learn these hacks and also I 
+I can help you in exchange
 
 
 <!---
